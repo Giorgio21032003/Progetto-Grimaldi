@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44c4c002-2acf-4d85-b1c1-095cd3d16b2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/HitachiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/controller/DispositivoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/controller/ManutenzioneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/controller/UtenteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/model/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/model/Manutenzione.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/model/TipoDispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/model/Utente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/repository/DispositivoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/repository/ManutenzioneRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/repository/UtenteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/DispositivoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/ManutenzioneServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/UtenteServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/interfaces/DispositivoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/interfaces/ManutenzioneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hitachi/service/interfaces/UtenteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hitachi/hitachi/HitachiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/api/dispositivo.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/api/manutenzione.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/api/utente.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/modale-dispositivi/modale-dispositivi.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/modale-dispositivi/modale-dispositivi.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/modale-dispositivi/modale-dispositivi.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/app/components/modale-dispositivi/modale-dispositivi.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/assets/img/hitachi-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/assets/img/hitachi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/custom-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/model/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/model/dispositivi.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/model/manutenzione.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/model/utente.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/home-page/home-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/home-page/home-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/home-page/home-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/home-page/home-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/login-page/login-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/login-page/login-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/login-page/login-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/pages/login-page/login-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front-end/hitachi-fe/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="35LJo6ad1pchAxoDIwbQ6ENRZuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/progetti/Grimaldi/Progetto-Grimaldi/Back-end/hitachi",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrimaldiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="grimaldi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hitachi.GrimaldiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c4c002-2acf-4d85-b1c1-095cd3d16b2d" name="Changes" comment="" />
+      <created>1762883590665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762883590665</updated>
+      <workItem from="1762883592179" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

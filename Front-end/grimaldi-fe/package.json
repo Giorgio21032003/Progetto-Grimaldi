@@ -1,0 +1,42 @@
+{
+  "name": "grimaldi-fe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "dependencies": {
+    "@angular/cdk": "^20.1.5",
+    "@angular/common": "^20.0.3",
+    "@angular/compiler": "^20.0.3",
+    "@angular/core": "^20.0.3",
+    "@angular/forms": "^20.0.3",
+    "@angular/material": "^20.1.5",
+    "@angular/platform-browser": "^20.0.3",
+    "@angular/platform-browser-dynamic": "^20.0.3",
+    "@angular/router": "^20.0.3",
+    "@ngx-pwa/local-storage": "^20.0.1",
+    "bootstrap": "^5.3.7",
+    "design-angular-kit": "^20.0.0",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "zone.js": "~0.15.1"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^20.0.3",
+    "@angular-eslint/builder": "^17.2.0",
+    "@angular-eslint/eslint-plugin": "^17.2.0",
+    "@angular-eslint/eslint-plugin-template": "^17.2.0",
+    "@angular-eslint/template-parser": "^17.2.0",
+    "@angular/cli": "^20.0.3",
+    "@angular/compiler-cli": "^20.0.3",
+    "@types/node": "^20.19.10",
+    "eslint": "^8.56.0",
+    "eslint-plugin-import": "^2.29.1",
+    "typescript": "^5.4.5"
+  }
+}

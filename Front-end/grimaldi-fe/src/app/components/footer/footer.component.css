@@ -1,0 +1,38 @@
+.app-footer mat-toolbar {
+  display: flex !important;        /* forza flex */
+  flex-wrap: wrap !important;      /* consente di andare a capo */
+  justify-content: flex-start;     /* allinea a sinistra */
+  padding: 0.5rem 1rem;
+}
+
+/* Piccoli margini tra i link */
+.app-footer .col-2 {
+  margin: 0.25rem 0;
+}
+
+/* Spacer per desktop */
+.app-footer .spacer {
+  flex: 1 1 auto;
+}
+
+/* Mobile: link in colonna */
+@media (max-width: 768px) {
+  .app-footer mat-toolbar {
+    flex-direction: column !important;  /* forza colonna */
+    align-items: flex-start !important;
+  }
+
+  .app-footer .spacer {
+    display: none !important; /* non serve più */
+  }
+
+  .app-footer .col-2 {
+    width: 100%;               /* ogni link occupa tutta la larghezza */
+  }
+
+  .app-footer .col-2 a {
+    width: 100%;
+    text-align: left;
+    padding: 0.5rem 0;
+  }
+}

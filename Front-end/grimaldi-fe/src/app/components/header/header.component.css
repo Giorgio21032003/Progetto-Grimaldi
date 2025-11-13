@@ -1,0 +1,86 @@
+.toolbar-logo {
+    display: flex;
+    justify-content: flex-start;
+    /* allinea a sinistra */
+    align-items: center;
+    /* centra verticalmente */
+    height: 64px;
+    /* altezza standard della toolbar */
+    padding-left: 16px;
+}
+
+/* Avatar utente */
+.user-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #0F396C;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.user-avatar:hover {
+  background-color: #133C73;
+}
+
+/* Contenitore del menu */
+.user-menu .menu-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  min-width: 220px;
+  max-width: 90vw;
+  overflow-x: hidden; /* blocca overflow orizzontale */
+  overflow-y: hidden; /* blocca overflow verticale */
+}
+
+/* Input disabilitato */
+.user-menu .menu-input {
+  width: 100%;
+}
+
+/* Pulsante Logout pieno */
+.user-menu .menu-logout {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-weight: 600;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .user-menu .menu-content {
+    min-width: 180px;
+    padding: 8px;
+  }
+
+  .user-menu .menu-logout {
+    font-size: 14px;
+    height: 40px;
+  }
+}
+
+/* Spacer toolbar */
+.spacer {
+  flex: 1 1 auto;
+}
+
+.logo-container img {
+    height: 80%;
+    /* si adatta bene senza uscire */
+    max-height: 48px;
+    /* limite massimo per evitare overflow */
+    width: auto;
+    /* mantiene proporzioni originali */
+    object-fit: contain;
+    /* mantiene il logo dentro il box */
+}
